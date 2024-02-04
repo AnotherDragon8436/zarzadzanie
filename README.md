@@ -1,1 +1,1 @@
-Jest to zaliczenie przedmiotu
+Jest to zaliczenie przedmiotu i program nie jest celem zaliczenia
